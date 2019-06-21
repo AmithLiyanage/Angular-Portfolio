@@ -12,6 +12,7 @@ import { BoxComponent } from './box/box.component';
   declarations: [
     AppComponent,
     HomeComponent,
+    NavComponent,
     BlogComponent,
     BoxComponent
   ],
